@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Curso de git e github</h1>
+    <p>Curso de introducao ao git e github</p>
 </body>
 </html>
